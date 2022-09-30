@@ -1,7 +1,7 @@
 수정
-1 =4
-2 =5
-3 =6
+1 =4 =7
+2 =5 =8
+3 =6 =9
 def partition(l, r, nums):
     # Last element will be the pivot and the first element the pointer
     pivot, ptr = nums[r], l
